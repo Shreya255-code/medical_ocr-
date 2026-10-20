@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/calibrator.pkl
+.venv/
+.env
+*.pdf
+# never commit real patient scans or records
+real_data/
